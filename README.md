@@ -1,0 +1,1 @@
+Чтобы развернуть проект, нужно в test_project создать файл local_settings.py. В этот файл указываем SECRET_KEY и DATABASES.
